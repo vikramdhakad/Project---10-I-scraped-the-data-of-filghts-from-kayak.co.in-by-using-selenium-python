@@ -1,0 +1,135 @@
+,Flight Name,Ticket Price,Flight timming,Airport to Airport,Time Take,Flight stops
+0,Air India Express 560,"₹ 5,000",20:55 - 23:25(2h 30m),DEL → GOI,(2h 30m),Direct • 2h 30m
+1,Vistara 855,"₹ 5,059",18:40 - 21:20(2h 40m),DEL → GOI,(2h 40m),Direct • 2h 40m
+2,Air India Express 768,"₹ 5,400",14:50 - 17:20(2h 30m),DEL → GOI,(2h 30m),Direct • 2h 30m
+3,Air India Express 769,"₹ 5,453",14:00 - 16:30(2h 30m),DEL → GOI,(2h 30m),Direct • 2h 30m
+4,IndiGo 2028,"₹ 5,454",16:20 - 18:45(2h 25m),DEL → GOI,(2h 25m),Direct • 2h 25m
+5,IndiGo 6576,"₹ 5,454",18:00 - 20:25(2h 25m),DEL → GOI,(2h 25m),Direct • 2h 25m
+6,Air India Express 779,"₹ 5,453",04:30 - 07:05(2h 35m),DEL → GOI,(2h 35m),Direct • 2h 35m
+7,IndiGo 6603,"₹ 5,454",19:25 - 21:55(2h 30m),DEL → GOI,(2h 30m),Direct • 2h 30m
+8,IndiGo 6205,"₹ 5,454",12:20 - 14:50(2h 30m),DEL → GOI,(2h 30m),Direct • 2h 30m
+9,Air India 885,"₹ 5,752",10:50 - 13:20(2h 30m),DEL → GOI,(2h 30m),Direct • 2h 30m
+10,Vistara 847,"₹ 5,784",11:10 - 13:50(2h 40m),DEL → GOI,(2h 40m),Direct • 2h 40m
+11,IndiGo 2277,"₹ 6,400",09:55 - 12:30(2h 35m),DEL → GOI,(2h 35m),Direct • 2h 35m
+12,IndiGo 2329,"₹ 6,770",11:00 - 13:30(2h 30m),DEL → GOI,(2h 30m),Direct • 2h 30m
+13, ,"₹ 7,159",14:50 - 17:20(2h 30m),DEL → GOI,(2h 30m),Direct • 2h 30m
+14,IndiGo 2774,"₹ 5,893",09:00 - 11:20(2h 20m),DEL → GOI,(2h 20m),1 stop • 5h 00m
+15,IndiGo 6282,"₹ 5,893",12:20 - 14:30(2h 10m),DEL → GOI,(2h 10m),1 stop • 5h 05m
+16,IndiGo 2434,"₹ 5,893",11:30 - 14:20(2h 50m),DEL → GOI,(2h 50m),1 stop • 5h 15m
+17,IndiGo 2009,"₹ 5,893",12:30 - 14:40(2h 10m),DEL → GOI,(2h 10m),1 stop • 5h 55m
+18,IndiGo 308,"₹ 5,893",08:15 - 11:00(2h 45m),DEL → GOI,(2h 45m),1 stop • 5h 55m
+19,IndiGo 6218,"₹ 5,893",06:00 - 07:55(1h 55m),DEL → GOI,(1h 55m),1 stop • 6h 35m
+20,IndiGo 2065,"₹ 5,893",10:45 - 13:10(2h 25m),DEL → GOI,(2h 25m),1 stop • 6h 40m
+21,IndiGo 5605,"₹ 6,536",18:30 - 20:45(2h 15m),DEL → GOI,(2h 15m),1 stop • 6h 10m
+22,IndiGo 434,"₹ 6,536",12:30 - 15:20(2h 50m),DEL → GOI,(2h 50m),1 stop • 6h 50m
+23,Vistara 801,"₹ 6,986",09:10 - 11:50(2h 40m),DEL → GOI,(2h 40m),1 stop • 4h 55m
+24,IndiGo 6328,"₹ 8,060",10:00 - 12:15(2h 15m),DEL → GOI,(2h 15m),1 stop • 5h 20m
+25,IndiGo 184,"₹ 8,060",09:10 - 10:40(1h 30m),DEL → GOI,(1h 30m),1 stop • 5h 35m
+26,Air India 441,"₹ 8,828",17:15 - 20:05(2h 50m),DEL → GOI,(2h 50m),1 stop • 4h 45m
+27,IndiGo 2283,"₹ 8,962",10:55 - 13:00(2h 05m),DEL → GOI,(2h 05m),1 stop • 4h 30m
+28,IndiGo 5074,"₹ 8,962",09:10 - 10:35(1h 25m),DEL → GOI,(1h 25m),1 stop • 5h 05m
+29,IndiGo 2676,"₹ 12,318",14:10 - 16:10(2h 00m),DEL → GOI,(2h 00m),1 stop • 4h 15m
+30,Air India Express 740,"₹ 5,105",06:55 - 09:50(2h 55m),DEL → GOI,(2h 55m),2 stops • 10h 40m
+31,Air India Express 783,"₹ 5,838",07:20 - 09:50(2h 30m),DEL → GOI,(2h 30m),2 stops • 9h 30m
+32,IndiGo 519,"₹ 5,893",23:30 - 01:40(2h 10m),DEL → GOI,(2h 10m),1 stop • 6h 35m
+33,Air India Express 783,"₹ 6,430",07:20 - 09:50(2h 30m),DEL → GOI,(2h 30m),1 stop • 9h 30m
+34,Vistara 801,"₹ 6,986",09:10 - 11:50(2h 40m),DEL → GOI,(2h 40m),1 stop • 9h 10m
+35,Vistara 807,"₹ 6,986",20:50 - 23:20(2h 30m),DEL → GOI,(2h 30m),1 stop • 10h 40m
+36,IndiGo 2103,"₹ 7,023",07:00 - 09:45(2h 45m),DEL → GOI,(2h 45m),1 stop • 7h 10m
+37,IndiGo 6047,"₹ 7,023",11:15 - 13:35(2h 20m),DEL → GOI,(2h 20m),1 stop • 7h 10m
+38,IndiGo 2408,"₹ 7,023",09:30 - 12:20(2h 50m),DEL → GOI,(2h 50m),1 stop • 7h 15m
+39,IndiGo 449,"₹ 7,023",05:00 - 07:10(2h 10m),DEL → GOI,(2h 10m),1 stop • 7h 35m
+40,IndiGo 6217,"₹ 7,023",17:00 - 19:10(2h 10m),DEL → GOI,(2h 10m),1 stop • 7h 40m
+41,IndiGo 6107,"₹ 7,255",09:00 - 11:05(2h 05m),DEL → GOI,(2h 05m),1 stop • 6h 20m
+42,Air India Express 740,"₹ 7,609",06:55 - 09:50(2h 55m),DEL → GOI,(2h 55m),1 stop • 6h 25m
+43,Vistara 959,"₹ 7,709",06:30 - 08:00(1h 30m),DEL → GOI,(1h 30m),1 stop • 8h 10m
+44,IndiGo 781,"₹ 8,060",16:30 - 19:15(2h 45m),DEL → GOI,(2h 45m),1 stop • 6h 20m
+45,Air India Express 740,"₹ 8,267",06:55 - 09:50(2h 55m),DEL → GOI,(2h 55m),1 stop • 6h 25m
+46,IndiGo 203,"₹ 8,426",06:45 - 09:00(2h 15m),DEL → GOI,(2h 15m),1 stop • 7h 15m
+47,IndiGo 675,"₹ 8,426",08:00 - 10:10(2h 10m),DEL → GOI,(2h 10m),1 stop • 7h 20m
+48,IndiGo 2062,"₹ 8,481",07:10 - 09:00(1h 50m),DEL → GOI,(1h 50m),2 stops • 7h 05m
+49,Vistara 811,"₹ 8,556",06:15 - 09:05(2h 50m),DEL → GOI,(2h 50m),1 stop • 7h 50m
+50,IndiGo 173,"₹ 8,795",10:30 - 13:05(2h 35m),DEL → GOI,(2h 35m),1 stop • 6h 15m
+51,Air India 522,"₹ 8,868",11:10 - 13:25(2h 15m),DEL → GOI,(2h 15m),1 stop • 6h 25m
+52,IndiGo 6282,"₹ 8,969",12:20 - 14:30(2h 10m),DEL → GOI,(2h 10m),1 stop • 5h 15m
+53,Vistara 899,"₹ 9,111",14:45 - 17:00(2h 15m),DEL → GOI,(2h 15m),1 stop • 5h 30m
+54,Air India 560,"₹ 9,152",07:10 - 09:20(2h 10m),DEL → GOI,(2h 10m),1 stop • 5h 20m
+55,SpiceJet 947,"₹ 9,157",17:10 - 19:20(2h 10m),DEL → GOI,(2h 10m),1 stop • 5h 20m
+56,Air India 678,"₹ 9,351",09:00 - 11:20(2h 20m),DEL → GOI,(2h 20m),1 stop • 5h 50m
+57,Vistara 829,"₹ 9,368",07:20 - 09:30(2h 10m),DEL → GOI,(2h 10m),1 stop • 5h 10m
+58,Vistara 879,"₹ 9,394",17:35 - 19:50(2h 15m),DEL → GOI,(2h 15m),1 stop • 4h 55m
+59,Air India 544,"₹ 9,407",17:00 - 19:10(2h 10m),DEL → GOI,(2h 10m),1 stop • 5h 30m
+60,Air India 665,"₹ 9,408",08:00 - 10:20(2h 20m),DEL → GOI,(2h 20m),1 stop • 6h 50m
+61,Air India 887,"₹ 9,408",07:00 - 09:15(2h 15m),DEL → GOI,(2h 15m),1 stop • 7h 50m
+62,Air India 417,"₹ 9,544",14:45 - 16:45(2h 00m),DEL → GOI,(2h 00m),1 stop • 5h 30m
+63,Air India 865,"₹ 9,696",10:45 - 13:05(2h 20m),DEL → GOI,(2h 20m),1 stop • 8h 40m
+64,IndiGo 6814,"₹ 9,973",07:00 - 08:55(1h 55m),DEL → GOI,(1h 55m),1 stop • 5h 35m
+65,Air India 469,"₹ 10,037",13:00 - 14:15(1h 15m),DEL → GOI,(1h 15m),2 stops • 9h 00m
+66,Air India 624,"₹ 10,149",19:10 - 21:20(2h 10m),DEL → GOI,(2h 10m),1 stop • 4h 30m
+67,IndiGo 382,"₹ 10,672",20:15 - 22:30(2h 15m),DEL → GOI,(2h 15m),1 stop • 4h 25m
+68,Air India 636,"₹ 10,928",14:30 - 18:05(3h 35m),DEL → GOI,(3h 35m),1 stop • 7h 30m
+69,Air India 636,"₹ 11,330",14:30 - 16:05(1h 35m),DEL → GOI,(1h 35m),2 stops • 7h 30m
+70,Vistara 899,"₹ 11,344",14:45 - 17:00(2h 15m),DEL → GOI,(2h 15m),2 stops • 7h 30m
+71,Vistara 815,"₹ 13,685",08:20 - 10:50(2h 30m),DEL → GOI,(2h 30m),1 stop • 5h 45m
+72,Vistara 941,"₹ 14,913",16:50 - 19:05(2h 15m),DEL → GOI,(2h 15m),1 stop • 5h 25m
+73,Vistara 955,"₹ 15,830",17:50 - 20:00(2h 10m),DEL → GOI,(2h 10m),1 stop • 4h 25m
+74,Vistara 943,"₹ 16,355",07:30 - 09:45(2h 15m),DEL → GOI,(2h 15m),1 stop • 5h 10m
+75,Air India Express 711,"₹ 5,105",05:30 - 07:40(2h 10m),DEL → GOI,(2h 10m),2 stops • 13h 55m
+76,Air India Express 743,"₹ 7,043",05:00 - 05:55(0h 55m),DEL → GOI,(0h 55m),2 stops • 8h 20m
+77,Air India Express 740,"₹ 7,131",06:55 - 09:50(2h 55m),DEL → GOI,(2h 55m),1 stop • 9h 55m
+78,Air India Express 743,"₹ 7,603",05:00 - 05:55(0h 55m),DEL → GOI,(0h 55m),1 stop • 8h 20m
+79,Air India Express 740,"₹ 8,267",06:55 - 09:50(2h 55m),DEL → GOI,(2h 55m),1 stop • 9h 55m
+80,Air India 814,"₹ 8,828",22:30 - 00:45(2h 15m),DEL → GOI,(2h 15m),1 stop • 7h 50m
+81,Air India 605,"₹ 8,828",21:20 - 23:35(2h 15m),DEL → GOI,(2h 15m),1 stop • 9h 00m
+82,Air India 805,"₹ 9,038",20:00 - 22:25(2h 25m),DEL → GOI,(2h 25m),1 stop • 10h 20m
+83,Vistara 815,"₹ 9,265",08:20 - 10:50(2h 30m),DEL → GOI,(2h 30m),1 stop • 10h 00m
+84,Air India 678,"₹ 9,880",09:00 - 11:20(2h 20m),DEL → GOI,(2h 20m),1 stop • 10h 25m
+85,Air India 817,"₹ 10,233",05:30 - 07:00(1h 30m),DEL → GOI,(1h 30m),2 stops • 9h 20m
+86,Air India 522,"₹ 11,021",11:10 - 13:25(2h 15m),DEL → GOI,(2h 15m),2 stops • 10h 50m
+87,Vistara 673,"₹ 12,658",13:20 - 14:40(1h 20m),DEL → GOI,(1h 20m),2 stops • 8h 55m
+88,Air India 439,"₹ 12,982",05:55 - 08:45(2h 50m),DEL → GOI,(2h 50m),2 stops • 10h 55m
+89,Air India 439,"₹ 12,982",05:55 - 08:45(2h 50m),DEL → GOI,(2h 50m),2 stops • 10h 55m
+90,Air India 439,"₹ 12,982",05:55 - 08:45(2h 50m),DEL → GOI,(2h 50m),2 stops • 10h 55m
+91,Air India 817,"₹ 13,359",05:30 - 07:00(1h 30m),DEL → GOI,(1h 30m),2 stops • 7h 50m
+92,Vistara 993,"₹ 13,730",12:50 - 15:00(2h 10m),DEL → GOI,(2h 10m),1 stop • 9h 25m
+93,IndiGo 2262,"₹ 13,914",08:30 - 10:35(2h 05m),DEL → GOI,(2h 05m),1 stop • 6h 55m
+94,Vistara 979,"₹ 14,938",13:30 - 15:00(1h 30m),DEL → GOI,(1h 30m),2 stops • 8h 45m
+95,Air India 401,"₹ 15,334",06:45 - 09:00(2h 15m),DEL → GOI,(2h 15m),2 stops • 8h 05m
+96,Vistara 933,"₹ 15,830",15:30 - 17:35(2h 05m),DEL → GOI,(2h 05m),1 stop • 6h 45m
+97,Vistara 951,"₹ 15,830",14:20 - 16:25(2h 05m),DEL → GOI,(2h 05m),1 stop • 7h 55m
+98,Vistara 975,"₹ 15,909",05:50 - 08:00(2h 10m),DEL → GOI,(2h 10m),1 stop • 6h 50m
+99,Air India 453,"₹ 16,228",04:55 - 06:10(1h 15m),DEL → GOI,(1h 15m),2 stops • 9h 55m
+100,Vistara 975,"₹ 16,493",05:50 - 08:00(2h 10m),DEL → GOI,(2h 10m),2 stops • 8h 15m
+101,Vistara 811,"₹ 16,507",06:15 - 09:05(2h 50m),DEL → GOI,(2h 50m),2 stops • 8h 25m
+102,Air India 767,"₹ 16,959",12:20 - 14:40(2h 20m),DEL → GOI,(2h 20m),2 stops • 9h 40m
+103,Air India 851,"₹ 17,175",04:50 - 06:55(2h 05m),DEL → GOI,(2h 05m),2 stops • 10h 00m
+104,Air India 856,"₹ 25,631",14:45 - 17:00(2h 15m),DEL → GOI,(2h 15m),1 stop • 7h 15m
+105,Vistara 833,"₹ 29,399",07:50 - 10:45(2h 55m),DEL → GOI,(2h 55m),2 stops • 10h 30m
+106,Air India 506,"₹ 43,788",09:40 - 12:30(2h 50m),DEL → GOI,(2h 50m),1 stop • 8h 40m
+107,Air India 813,"₹ 43,788",08:00 - 11:00(3h 00m),DEL → GOI,(3h 00m),1 stop • 10h 20m
+108,Air India 665,"₹ 56,806",08:00 - 10:20(2h 20m),DEL → GOI,(2h 20m),1 stop • 4h 40m
+109,Air India 887,"₹ 56,806",07:00 - 09:15(2h 15m),DEL → GOI,(2h 15m),1 stop • 5h 40m
+110,Air India 856,"₹ 56,806",14:45 - 17:00(2h 15m),DEL → GOI,(2h 15m),1 stop • 7h 30m
+111,Air India 636,"₹ 56,806",14:30 - 16:05(1h 35m),DEL → GOI,(1h 35m),2 stops • 7h 45m
+112,Air India 860,"₹ 56,806",02:15 - 04:30(2h 15m),DEL → GOI,(2h 15m),1 stop • 10h 25m
+113,Vistara 955,"₹ 57,044",17:50 - 20:00(2h 10m),DEL → GOI,(2h 10m),1 stop • 4h 10m
+114,Vistara 995,"₹ 57,044",10:20 - 12:35(2h 15m),DEL → GOI,(2h 15m),1 stop • 4h 30m
+115,Vistara 941,"₹ 57,044",16:50 - 19:05(2h 15m),DEL → GOI,(2h 15m),1 stop • 5h 10m
+116,Vistara 927,"₹ 57,044",09:30 - 11:40(2h 10m),DEL → GOI,(2h 10m),1 stop • 5h 20m
+117,Vistara 963,"₹ 57,044",08:55 - 11:10(2h 15m),DEL → GOI,(2h 15m),1 stop • 5h 55m
+118,Vistara 933,"₹ 57,044",15:30 - 17:35(2h 05m),DEL → GOI,(2h 05m),1 stop • 6h 30m
+119,Vistara 943,"₹ 57,044",07:30 - 09:45(2h 15m),DEL → GOI,(2h 15m),1 stop • 7h 20m
+120,Vistara 951,"₹ 57,044",14:20 - 16:25(2h 05m),DEL → GOI,(2h 05m),1 stop • 7h 40m
+121,Vistara 999,"₹ 57,044",21:55 - 00:15(2h 20m),DEL → GOI,(2h 20m),1 stop • 8h 25m
+122,Vistara 981,"₹ 57,044",21:30 - 23:40(2h 10m),DEL → GOI,(2h 10m),1 stop • 8h 50m
+123,Vistara 975,"₹ 57,044",05:50 - 08:00(2h 10m),DEL → GOI,(2h 10m),1 stop • 9h 00m
+124,Vistara 993,"₹ 57,044",12:50 - 15:00(2h 10m),DEL → GOI,(2h 10m),1 stop • 9h 10m
+125,Vistara 957,"₹ 57,044",20:40 - 23:05(2h 25m),DEL → GOI,(2h 25m),1 stop • 9h 40m
+126,Vistara 985,"₹ 57,044",19:45 - 22:00(2h 15m),DEL → GOI,(2h 15m),1 stop • 10h 35m
+127,Air India 817,"₹ 57,126",05:30 - 07:00(1h 30m),DEL → GOI,(1h 30m),1 stop • 9h 10m
+128,Air India 813,"₹ 62,948",08:00 - 11:00(3h 00m),DEL → GOI,(3h 00m),1 stop • 6h 05m
+129,Air India 803,"₹ 62,948",06:10 - 08:55(2h 45m),DEL → GOI,(2h 45m),1 stop • 7h 55m
+130,Air India 514,"₹ 62,948",03:35 - 06:25(2h 50m),DEL → GOI,(2h 50m),1 stop • 10h 30m
+131,Air India 504,"₹ 63,998",21:10 - 00:05(2h 55m),DEL → GOI,(2h 55m),1 stop • 10h 20m
+132,Qatar Airways 4781,"₹ 74,038",17:00 - 18:35(4h 05m),DEL → GOI,(4h 05m),1 stop • 8h 55m
+133,Vistara 975,"₹ 85,915",05:50 - 08:00(2h 10m),DEL → GOI,(2h 10m),2 stops • 8h 15m
